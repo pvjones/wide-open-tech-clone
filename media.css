@@ -1,0 +1,8 @@
+@media (max-width: 800px) {
+  .nav-wrapper .main-nav {
+    display: none;
+  }
+}
+
+
+
